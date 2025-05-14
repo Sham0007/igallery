@@ -29,4 +29,4 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ## RESULT:
-The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
+The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully..
